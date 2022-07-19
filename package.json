@@ -1,0 +1,19 @@
+{
+  "name": "solid-infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:azzzub/solid-infinite-scroll.git"
+  },
+  "keywords": [
+    "solidjs",
+    "scroll"
+  ],
+  "author": "azzzub",
+  "license": "ISC"
+}
