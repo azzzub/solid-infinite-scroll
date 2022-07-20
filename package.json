@@ -1,7 +1,7 @@
 {
   "name": "solid-infinite-scroll",
   "version": "1.0.0",
-  "description": "",
+  "description": "infinite scroll library for solid-js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,8 @@
     "scroll"
   ],
   "author": "azzzub",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "solid-js": "^1.4.7"
+  }
 }
