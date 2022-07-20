@@ -46,10 +46,6 @@ export default function InfiniteScroll<T, U extends JSX.Element>(props: {
     : props.scrollTreshold + "px";
 
   createEffect(() => {
-    console.log(observerRef);
-  });
-
-  createEffect(() => {
     if (!props.hasMore) {
       setLoading(false);
     }
