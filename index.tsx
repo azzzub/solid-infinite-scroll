@@ -57,8 +57,9 @@ export default function InfiniteScroll<T, U extends JSX.Element>(props: {
       <div
         ref={observerRef}
         style={{
-          height: observerObjectHeight,
+          "height": observerObjectHeight,
           "margin-top": "-" + observerObjectHeight,
+          "z-index": "-999"
         }}
       />
       <Show

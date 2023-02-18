@@ -3,9 +3,7 @@
   "version": "0.0.1-beta",
   "description": "infinite scroll library for solid-js",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git@github.com:azzzub/solid-infinite-scroll.git"
