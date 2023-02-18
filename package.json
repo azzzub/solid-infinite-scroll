@@ -1,6 +1,6 @@
 {
   "name": "solid-infinite-scroll",
-  "version": "0.0.1-beta",
+  "version": "1.0.0",
   "description": "infinite scroll library for solid-js",
   "main": "index.js",
   "scripts": {},
@@ -10,7 +10,9 @@
   },
   "keywords": [
     "solidjs",
-    "scroll"
+    "scroll",
+    "infinite scroll",
+    "dynamic"
   ],
   "author": "azzzub",
   "license": "ISC",
